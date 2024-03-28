@@ -1,8 +1,3 @@
-## Memeracle - Make your own memes
-
-Memeracle is an open source, react-built, meme generator.
-
-You can check it out here 👇
 
 Live site - [Click here](https://memeracle.vercel.app)
 
