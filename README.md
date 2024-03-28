@@ -63,6 +63,26 @@ Here are some screenshot examples of the app
 
 ![example two](docs/images/example-two.png)
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+## Contribution
+
+You need 0 coding knowledge to contribute to the project! Some good ideas for first issues are updating documentation, suggesting some design improvements, making PR templates and so much more!
+
+Just raise an [issue](https://github.com/Dharmik48/meme-generator/issues/new) for it
+
+Please read [CONTRIBUTING](https://github.com/Dharmik48/meme-generator/blob/main/CONTRIBUTING.md) for a full guide to contributing to this project.
+
+## 💪 Thanks to all Contributors
+
+=======
+>>>>>>> d30f47434df1163e57dcf811f251f672ec467bc9
+Thanks a lot for spending your time helping Meme Generator grow. Thanks a lot! Keep rocking 🍻
+=======
+>>>>>>> Stashed changes
 Thanks a lot for spending your time helping Meme Generator grow. Thanks a lot! Keep rocking 🍻
 
 [![Contributors](https://contrib.rocks/image?repo=Dharmik48/meme-generator)](https://github.com/Dharmik48/meme-generator/graphs/contributors)
+>>>>>>> d30f47434df1163e57dcf811f251f672ec467bc9
