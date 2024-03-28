@@ -86,3 +86,5 @@ Thanks a lot for spending your time helping Meme Generator grow. Thanks a lot! K
 
 [![Contributors](https://contrib.rocks/image?repo=Dharmik48/meme-generator)](https://github.com/Dharmik48/meme-generator/graphs/contributors)
 >>>>>>> d30f47434df1163e57dcf811f251f672ec467bc9
+
+This code should be clean and easy to maintenance.
